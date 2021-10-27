@@ -54,7 +54,7 @@ module.exports = {
         {
           title: "PHP",
           collapsable: false,
-          children: ["", "namespace-and-use"],
+          children: ["", "namespace-and-use", "this-self"],
         },
       ],
     },
